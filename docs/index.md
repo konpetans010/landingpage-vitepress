@@ -1,6 +1,6 @@
 ---
 home: true
-heroText: Technical Writer
+heroText: Remote Bilingual Technical Writing Services
 tagline: Open-source | Linux | Web | Cloud | Scientific | Mathematics
 actionText: Get Started →
 actionLink: /guide/
