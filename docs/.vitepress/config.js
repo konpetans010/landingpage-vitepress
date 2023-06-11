@@ -1,16 +1,15 @@
 module.exports = {
-	title: 'VitePress template',
-	description: 'A JAMstack website template with the VitePress and Netlify CMS config.',
+	title: 'Konpetans 010',
+	description: 'Remote Technical Writing Services',
 	themeConfig: {
-		repo: 'tsutoringo/VitePress-with-Netlify-CMS',
+		repo: 'konpetans010/landingpage-vitepress',
 		docsDir: 'docs',
 		editLinks: true,
 		editLinkText: 'Edit this page on GitHub',
 		lastUpdated: 'Last Updated',
 		nav: [
 			{ text: 'Home', link: '/' },
-			{ text: 'Guide', link: '/guide/' },
-			{ text: 'GitHub', link: 'https://github.com/tsutoringo/VitePress-with-Netlify-CMS' }
+			{ text: 'Guide', link: '/guide/' }
 		],
 	}
 }
