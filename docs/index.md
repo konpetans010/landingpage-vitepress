@@ -2,8 +2,8 @@
 home: true
 heroText: Remote Technical Writing Services
 tagline: Open-source | Linux | Web | Cloud | Scientific | Mathematics
-actionText: Get Started →
-actionLink: /guide/
+actionText: Portfolio →
+actionLink: /portfolio/
 features:
   - details: We follow the innovative doc-as-code approach, using industry-standard
       tools and practices to streamline the creation and maintenance of your
@@ -32,7 +32,17 @@ features:
       expectations.
 footer: Konpetans010 - Maurtius (UTC+4)
 ---
-<!--StartFragment-->
+## A﻿bout me | Didier Joomun
+
+Hey there! I'm Didier Joomun, a passionate technical writer with a knack for making complex things simple. I love diving into the world of technology and transforming intricate concepts into user-friendly documentation.
+
+With a focus on open-source technologies and Linux systems, I bring a wealth of knowledge to the table. From Linux distributions to web servers like Apache and Nginx, I've got you covered. I stay up to date with the latest industry standards, ensuring that your documentation is on point.
+
+Being bilingual (English and French), I understand the importance of reaching diverse audiences. Whether it's translating technical content or creating bilingual docs, I ensure the message gets across accurately, no matter the language.
+
+What makes me stand out is my customer-centric approach. Your needs are my priority, and I'm committed to delivering documentation that exceeds your expectations. I'm here to simplify your tech writing projects and provide you with a premium service tailored to your requirements.
+
+Let's collaborate and create documentation that empowers users, simplifies complexities, and enhances the user experience.
 
 ## Technical Skills:
 
@@ -54,5 +64,3 @@ Our technical writing services encompass various writing styles and tools:
 * Tools: Our technical writers are proficient in using Markdown, Jamstack, and LibreOffice to create clear and concise documentation.
 
 With Konpetans 010, you can expect high-quality technical writing services that cater to your specific needs, leveraging our expertise in doc-as-code and our vast knowledge of open-source, Linux, and technical documentation.
-
-<!--EndFragment-->
