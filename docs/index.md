@@ -30,6 +30,29 @@ features:
       unique requirements. Our premium service places your needs at the core of
       the process, ensuring that we deliver documentation that exceeds your
       expectations.
-footer: Template maintained by tsutoringo | MIT Licensed
+footer: Konpetans010 - Maurtius (UTC+4)
 ---
-<a href="https://app.netlify.com/start/deploy?repository=https://github.com/tsutoringo/VitePress-with-Netlify-CMS&amp;stack=cms" style="display:block; text-align:center"><img src="https://www.netlify.com/img/deploy/button.svg" alt="Deploy to Netlify"></a>
+<!--StartFragment-->
+
+## Technical Skills:
+
+Our technical skills include expertise in the following areas:
+
+### Software and Operating Systems:
+
+* Linux: We have extensive knowledge and experience with various Linux distributions such as Ubuntu, Debian, Arch, CentOS, and RedHat.
+* Web: We are proficient in working with web servers like Apache and Nginx.
+* Cloud: We have expertise in cloud technologies, enabling us to create documentation tailored to cloud-based solutions.
+* Automation: Our technical writers are skilled in automation tools such as Ansible, Chef, and Terraform.
+* DevOps: We are well-versed in using Git for version control and collaboration in the DevOps environment.
+
+### Writing:
+
+Our technical writing services encompass various writing styles and tools:
+
+* Styling Guides: We are familiar with and adhere to the styling guides of Microsoft, Google, and other industry-standard practices.
+* Tools: Our technical writers are proficient in using Markdown, Jamstack, and LibreOffice to create clear and concise documentation.
+
+With Konpetans 010, you can expect high-quality technical writing services that cater to your specific needs, leveraging our expertise in doc-as-code and our vast knowledge of open-source, Linux, and technical documentation.
+
+<!--EndFragment-->
