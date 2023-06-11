@@ -2,8 +2,8 @@
 home: true
 heroText: Remote Technical Writing Services
 tagline: Open-source | Linux | Web | Cloud | Scientific | Mathematics
-actionText: Get Started →
-actionLink: /guide/
+actionText: Portfolio →
+actionLink: /portfolio/
 features:
   - details: We follow the innovative doc-as-code approach, using industry-standard
       tools and practices to streamline the creation and maintenance of your
