@@ -5,31 +5,25 @@ tagline: Open-source | Linux | Web | Cloud | Scientific | Mathematics
 actionText: Portfolio →
 actionLink: /portfolio/
 features:
-  - details: We follow the innovative doc-as-code approach, using industry-standard
-      tools and practices to streamline the creation and maintenance of your
-      documentation. By leveraging technologies such as markdown, Git, Vale,
-      Vitepress, and Jamstack, we ensure that your documentation is efficiently
-      managed, version-controlled, and accessible for collaborative editing.
+  - details: We streamline documentation creation and maintenance through the
+      innovative doc-as-code approach. By leveraging tools like markdown, Git,
+      Vale, Vitepress, and Jamstack, your documentation is efficiently managed,
+      version-controlled, and collaboratively editable.
     title: Doc-as-Code Methodology
-  - details: We understand the importance of catering to a diverse audience. Our
-      bilingual technical writing services are available in both English and
-      French, enabling us to effectively reach and engage a wider range of
-      users. No matter the language, we guarantee that your documentation will
-      be accurately translated, preserving its clarity and technical accuracy.
+  - details: Catering to diverse audiences is important to us. Our bilingual
+      technical writing services in English and French effectively engage a
+      wider range of users. Rest assured, your documentation will be accurately
+      translated, maintaining clarity and technical accuracy.
     title: Bilingual Documentation
-  - details: With over 10 years of experience in Linux, open-source, web, and cloud
-      technologies, we bring a wealth of knowledge to our technical writing
-      projects. We understand the intricacies of open-source systems, web
-      servers like Apache and Nginx, and cloud technologies, ensuring that your
-      documentation aligns with the latest industry standards and best
-      practices.
+  - details: With 10+ years in Linux, open-source, web, and cloud technologies, our
+      expertise shines through. We grasp the intricacies of open-source systems,
+      Apache and Nginx web servers, and cloud technologies. Your documentation
+      aligns with the latest industry standards and best practices.
     title: Extensive Open-Source Experience
   - title: Customer-Centric Approach
-    details: At Konpetans 010, we prioritize customer satisfaction. We believe that
-      effective technical writing starts with a deep understanding of your
-      unique requirements. Our premium service places your needs at the core of
-      the process, ensuring that we deliver documentation that exceeds your
-      expectations.
+    details: Your satisfaction is our priority. We start by deeply understanding
+      your unique requirements. Our premium service centers around your needs,
+      delivering documentation that exceeds expectations.
 footer: Konpetans010 - Maurtius (UTC+4)
 ---
 ## A﻿bout me | Didier Joomun
